@@ -56,7 +56,7 @@ Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/
   - Explicação do que Jquery
 
 
-# Temos duas 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:
+# Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:
 
 
   - Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
