@@ -167,7 +167,7 @@ O código abaixo seleciona um elemento pelo DOM (id="my-photo"), e altera o src 
 ```
 
 
-O código abaixo cria uma função em JavaScript
+O código abaixo cria uma função em JavaScript, [leia mais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Fun%C3%A7%C3%B5es)
 ```html
 ...
 <body>
