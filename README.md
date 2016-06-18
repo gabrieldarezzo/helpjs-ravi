@@ -209,3 +209,24 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - Prontinho... Seu código foi executado @dica: caso você altere o arquivo 'index.html' é só dar um F5 (Ou Ctrl + R) no navegador que você olha a alteração.  
 ![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/5.png)
 
+# Ainda tem dúvida? Pow cria um 'Issue':
+  -  https://github.com/gabrieldarezzo/helpjs-ravi/issues 
+
+  # Artigos lekais de JavaScript/HTML/CSS:  
+  - http://tableless.github.io/iniciantes/
+  - http://wbruno.com.br/category/javascript-puro/
+  - https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
+  
+# Um dos motivos de eu usar o Google Chrome:  
+  - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
+  
+# JQuery  
+  - http://try.jquery.com/
+  
+  
+
+
+
+
+
+
