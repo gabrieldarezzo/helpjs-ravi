@@ -188,3 +188,24 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
 </body>
 ...
 ```
+
+
+## Ainda com dúvidas de como executar o Olá mundo no JavaScript?!  
+#### Fiz um passo a passo.  
+**(Não precisa de servidor cara aqui é só JavaScript.... Qualquer navegador já executa, preferencialmente o Google Chrome.**
+
+  - Copie e cole o conteudo do 'Inline' acima... (ou escreva, é bom saber algumas tags/codes de cabeça...)
+![Código HTML + JavaScript](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/1.png)
+
+  - Clique em 'Arquivo' -> 'Salvar Como'
+![Salvar->Salvar Como](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/2.png)
+
+  - Escolha uma pasta, (de preferencia crie uma para cada exercício. **Exemplo: 'ex', 'ex1', ...)** )
+![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/3.png)
+
+  - Vá até a pasta escolhida, clique com botão direito no arquivo salvo e depois 'Abrir com' -> 'Google Chrome' **(Caso não apareça a opção só arrasta para o navegador aberto)**
+![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/4.png)
+
+  - Prontinho... Seu código foi executado @dica: caso você altere o arquivo 'index.html' é só dar um F5 (Ou Ctrl + R) no navegador que você olha a alteração.
+![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/5.png)
+
