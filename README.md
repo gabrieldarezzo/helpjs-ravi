@@ -264,8 +264,9 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - http://wbruno.com.br/category/javascript-puro/
   - https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
   
-# Um dos motivos de eu usar o Google Chrome:  
+# Motivos para você usar o Chrome:  
   - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
+  - https://chrome.google.com/webstore/detail/do-it/eppncnmppghbndacgkideegigaminkfg
   
 # JQuery  
   - http://try.jquery.com/  
