@@ -209,6 +209,12 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - Prontinho... Seu código foi executado @dica: caso você altere o arquivo 'index.html' é só dar um F5 (Ou Ctrl + R) no navegador que você olha a alteração.  
 ![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/5.png)
 
+# Pow eu fiz os códigos, porem não acontece nada/fiz os códigos e não ocorreu o esperado....
+  **Ai meu filho você precisa aprender a *debbugar**:
+  - http://www.devfuria.com.br/javascript/debugando/
+  - http://www.devmedia.com.br/depurando-javascript-com-google-chrome/28367
+
+
 # Ainda tem dúvida? Pow cria um 'Issue':
   -  https://github.com/gabrieldarezzo/helpjs-ravi/issues 
 
@@ -221,12 +227,15 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
   
 # JQuery  
-  - http://try.jquery.com/
+  - http://try.jquery.com/  
   
   
 
 
 
 
+Entenda o que é ['Vanilla-js'](http://pt.stackoverflow.com/questions/46983/o-que-%C3%A9-o-vanilla-js)  
+Powered By:  
+[![Vanilla-js](http://vanilla-js.com/assets/button.png)](http://vanilla-js.com/)  
 
 
