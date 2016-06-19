@@ -48,8 +48,49 @@ Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/
   - (35) Exiba a data atual pelo JavaScript no seguinte formato: dia/mês/Ano
   - (36) Exiba o próximo mês (dinamicamente obviamente)
 
+## Just.... DO IT ARRAYS:  
+Entenda sobre arrays:
+https://pt.wikipedia.org/wiki/Arranjo_(computa%C3%A7%C3%A3o) ou https://en.wikipedia.org/wiki/Array_data_type
+
+
+
+- (37.a) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+E Exiba a quantidade/comprimento que ele tem com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
+
+- (37.b) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+E exiba um a um com ```alert();``` - De preferencia para laços de repetição (for, forEach, while, do{}while)
+
+- (37.c) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [push()](http://www.w3schools.com/jsref/jsref_push.asp)  
+
+- (37.d) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
+
+- (37.e) Crie o seguinte array: ```var numbers = new Array(5, 7, 1, 8, 9);```  
+E exiba de forma crescente:  @dica: [.sort](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)   
+@dica2: http://pt.stackoverflow.com/questions/9900/como-ordenar-um-array-por-valores
+
+- (37.f) Crie o seguinte array: ```var numbers = new Array(5, 7, 1, 8, 9);```  
+E exiba de forma decrescente.
+
+
+- (38) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder', 'Bragi', 'Búri', 'Dag', 'Dellingr');```  
+E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
+
+- (39) Crie um campo texto no html que armazena o conteudo em um array sempre que você clicar no botão, e apresente em uma lista(ul)
+
+- (40) Crie um campo texto no html que armazena o conteudo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
+
+- (41) Crie um campo texto no html que armazena o conteudo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
+
+JavaScript curiosidade...  
+http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-uma-matriz-com-array-e-em-javascript 
+
+
+
+
 ## Tópicos futuros:
-  - Arrays/Matrizes/Vetores?
+  - (feito) Arrays/Matrizes/Vetores?
   - Classes/Prototype
   - JSON
   - Manipulação de CSS pelo JavaScript
@@ -215,7 +256,7 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - http://www.devmedia.com.br/depurando-javascript-com-google-chrome/28367
 
 
-# Ainda tem dúvida? Pow cria um 'Issue':
+# Ainda tem dúvida? Cria um 'Issue' tio....
   -  https://github.com/gabrieldarezzo/helpjs-ravi/issues 
 
   # Artigos lekais de JavaScript/HTML/CSS:  
