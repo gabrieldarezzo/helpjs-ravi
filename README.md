@@ -77,11 +77,11 @@ E exiba de forma decrescente.
 - (38) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder', 'Bragi', 'Búri', 'Dag', 'Dellingr');```  
 E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 
-- (39) Crie um campo texto no html que armazena o conteudo em um array sempre que você clicar no botão, e apresente em uma lista(ul)
+- (39) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul)
 
-- (40) Crie um campo texto no html que armazena o conteudo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
+- (40) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
 
-- (41) Crie um campo texto no html que armazena o conteudo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
+- (41) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
 
 JavaScript curiosidade...  
 http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-uma-matriz-com-array-e-em-javascript 
@@ -100,7 +100,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 # Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:
 
 
-## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
+  ## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
@@ -114,7 +114,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 </html>
 ```
   
-## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
+  ## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
@@ -132,7 +132,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 ```
   
 
-## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
+  ## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
@@ -146,7 +146,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 </html>
 ```
 
-Conteudo do 'my_script.js':
+Conteúdo do 'my_script.js':
 ```javascript
 alert('Olá!!!');
 ```
@@ -235,7 +235,7 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
 #### Fiz um passo a passo.  
 **(Não precisa de servidor cara aqui é só JavaScript.... Qualquer navegador já executa, preferencialmente o Google Chrome.**
 
-  - Copie e cole o conteudo do 'Inline' acima... (ou escreva, é bom saber algumas tags/codes de cabeça...)
+  - Copie e cole o conteúdo do 'Inline' acima... (ou escreva, é bom saber algumas tags/codes de cabeça...)
 ![Código HTML + JavaScript](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/1.png)
 
   - Clique em 'Arquivo' -> 'Salvar Como'
@@ -259,12 +259,12 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
 # Ainda tem dúvida? Cria um 'Issue' tio....
   -  https://github.com/gabrieldarezzo/helpjs-ravi/issues 
 
-  # Artigos lekais de JavaScript/HTML/CSS:  
+# Artigos lekais de JavaScript/HTML/CSS:  
   - http://tableless.github.io/iniciantes/
   - http://wbruno.com.br/category/javascript-puro/
   - https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
   
-# Motivos para você usar o Chrome:  
+# Motivos para você usar o <chrome></chrome>:  
   - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
   - https://chrome.google.com/webstore/detail/do-it/eppncnmppghbndacgkideegigaminkfg
   
