@@ -102,53 +102,53 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 
 ## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
 ```html
-	<!DOCTYPE HTML>
-	<html lang="pt-br">
-	<head>
-		<meta charset="utf-8">
-		<title>JS Examples</title>
-	</head>
-	<body>
-		<button onclick="alert('Hit-me');">Click-Me</button>
-	</body>
-	</html>
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>JS Examples</title>
+</head>
+<body>
+	<button onclick="alert('Hit-me');">Click-Me</button>
+</body>
+</html>
 ```
   
 ## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
 ```html
-	<!DOCTYPE HTML>
-	<html lang="pt-br">
-	<head>
-		<meta charset="utf-8">
-		<title>JS Examples</title>
-	</head>
-	<body>
-		
-		<script type="text/javascript">
-			alert('Olá');
-		</script>
-	</body>
-	</html>
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>JS Examples</title>
+</head>
+<body>
+	
+	<script type="text/javascript">
+		alert('Olá');
+	</script>
+</body>
+</html>
 ```
   
 
 ## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
 ```html
-	<!DOCTYPE HTML>
-	<html lang="pt-br">
-	<head>
-		<meta charset="utf-8">
-		<title>JS Examples</title>
-	</head>
-	<body>
-		<script type="text/javascript" src="my_script.js"></script>
-	</body>
-	</html>
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>JS Examples</title>
+</head>
+<body>
+	<script type="text/javascript" src="my_script.js"></script>
+</body>
+</html>
 ```
 
 Conteudo do 'my_script.js':
 ```javascript
-	alert('Olá!!!');
+alert('Olá!!!');
 ```
 
 # Exemplos de códigos para resolução dos exercícios...
@@ -156,24 +156,24 @@ Conteudo do 'my_script.js':
 
 Isto é um alert...
 ```javascript
-	alert('Olá Mundo!');
+alert('Olá Mundo!');
 ```
 Isto tambem é um alert, pode ser considera um 'exibir' ou 'saída' ou 'output' da linguagem:
 ```javascript
-	alert(2 + 2);
+alert(2 + 2);
 ```
 Entenda:  
 https://pt.wikipedia.org/wiki/Entrada/sa%C3%ADda ou  https://en.wikipedia.org/wiki/Input/output 
 
 Isto monitora o evento 'click' no html (Incorporado/Importado)
 ```javascript
-	document.getElementById('proximo-quadro').addEventListener('click', function() {
-		alert('Click');
-	});
+document.getElementById('proximo-quadro').addEventListener('click', function() {
+	alert('Click');
+});
 ```
 Isto monitora o evento 'click' (Inline)
 ```html
-	<button onclick="alert('Hit-me');">Click-Me</button>
+<button onclick="alert('Hit-me');">Click-Me</button>
 ```
 
 O código abaixo monitora o evento 'click' do elemento DOM com o id 'my-btn' e depois exibe o valor(value) do elemento my-txt
