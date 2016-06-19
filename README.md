@@ -59,7 +59,7 @@ Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/
 # Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:
 
 
-  - Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
+## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
 ```html
 	<!DOCTYPE HTML>
 	<html lang="pt-br">
@@ -73,7 +73,7 @@ Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/
 	</html>
 ```
   
-  - Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
+## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
 ```html
 	<!DOCTYPE HTML>
 	<html lang="pt-br">
@@ -91,7 +91,7 @@ Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/
 ```
   
 
-  - Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
+## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
 ```html
 	<!DOCTYPE HTML>
 	<html lang="pt-br">
