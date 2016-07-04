@@ -1,4 +1,4 @@
-# Exercicios em JavaScript (Para ajudar meu primo)
+# Exercicios em JavaScript
 
 ## Previa leitura antes de tudo: (não precisa entender só ler ta valendo...)  
 [http://tableless.com.br/tenha-o-dom/](http://tableless.com.br/tenha-o-dom/)
@@ -264,7 +264,7 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - http://wbruno.com.br/category/javascript-puro/
   - https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
   
-# Motivos para você usar o <chrome></chrome>:  
+# Motivos para você usar o Google Chrome:  
   - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
   - https://chrome.google.com/webstore/detail/do-it/eppncnmppghbndacgkideegigaminkfg
   
