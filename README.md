@@ -263,6 +263,10 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - http://tableless.github.io/iniciantes/
   - http://wbruno.com.br/category/javascript-puro/
   - https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
+  - http://jstherightway.org/pt-br/#js-code-style
+  - http://www.codewars.com/?language=javascript
+  - Ebooks gratuitos de JS -> http://jsbooks.revolunet.com/
+  - Ebooks gratuitos de JS_2 -> https://devfreebooks.org/javascript/
   
 # Motivos para você usar o Google Chrome:  
   - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
