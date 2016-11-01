@@ -21,7 +21,7 @@ Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/
   - (9) no campo texto do exercício anterior, preencha um CPF (sem pontuação e exiba o mesmo sem pontuação)  
   - (10) declare 2 variáveis (valor1,valor2)  com valores 2 ,  6 crie uma terceira variável com o resultado sendo a soma de (valor1,valor2), exiba o mesmo.
   - (11) faça 1 botão, 3 campos texto no html.E passe dinamicamente o primeiro campo valor1, segundo campo valor2, e no terceiro campo ao clicar no botão exiba a soma
-@Dica: trabalhe com id="", e no html utiliza a tag <button id="btn-acao">Click-Me</button>
+ Dica: trabalhe com id="", e no html utiliza a tag <button id="btn-acao">Click-Me</button>
   - (12) Faça um comentário de uma linha no JavaScript
   - (13) Faça um comentário de varias linhas no JavaScript
   - (14) Crie uma div com o id 'resultado' no html (vazia) e insira via JavaScript no ato do 'Load' da página o trecho : 'Esse html veio do JavaScript...'
