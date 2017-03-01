@@ -5,7 +5,8 @@
 
 Recomendo utilizar o editor de texto de sua preferência para execução dos scripts abaixo.  
 A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost.com.br/blog/2016/04/super-lista-com-os-10-melhores-editores-de-codigo-gratuitos/)  
-Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/v6.9.2.html), por ser extremamente leve, mas fique a sua escolha.
+<del>Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/), por ser extremamente leve, mas fique a sua escolha.</del>
+Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.
 
 (Leia os exemplos no final da pagina caso você 'trave' em  algum exercício)
  
