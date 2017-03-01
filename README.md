@@ -8,7 +8,8 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
 <del>Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/), por ser extremamente leve, mas fique a sua escolha.</del>
 Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.
 
-(Leia os exemplos no final da pagina caso você 'trave' em  algum exercício)
+Leia os [exemplos](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos-de-códigos-para-resolução-dos-exercícios) caso você 'trave' em  algum exercício
+
  
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**....
@@ -95,8 +96,8 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
   - Classes/Prototype
   - JSON
   - Manipulação de CSS pelo JavaScript
-  - Explicação do que Jquery
-
+  - Jquery (Porem faça esse [curso](http://try.jquery.com/))
+  - [feito](https://github.com/gabrieldarezzo/desafiosInternos/tree/master/ajax#guia-definitivo-ajax) Ajax
 
 # Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:   
 
