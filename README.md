@@ -97,10 +97,10 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
   - Explicação do que Jquery
 
 
-# Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:
+# Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:   
 
 
-  ## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
+## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
@@ -112,9 +112,9 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 	<button onclick="alert('Hit-me');">Click-Me</button>
 </body>
 </html>
-```
+```  
   
-  ## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
+## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
@@ -129,10 +129,10 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 	</script>
 </body>
 </html>
-```
+```   
   
 
-  ## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
+## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
@@ -144,7 +144,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 	<script type="text/javascript" src="my_script.js"></script>
 </body>
 </html>
-```
+```   
 
 Conteúdo do 'my_script.js':
 ```javascript
