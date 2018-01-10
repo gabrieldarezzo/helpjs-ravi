@@ -1,4 +1,4 @@
-# Exercicios em JavaScript
+# 40 - Exercicios em JavaScript (JS)
 
 ## OLÁ INTERNET!!!   
 
@@ -22,13 +22,13 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') - [Monitorando-Click](https://github.com/gabrieldarezzo/helpjs-ravi#monitorando-um-evento-click)
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
   - (6) No seu HTML exiba a imagem de uma lampada, ao passar o mouse trocar para a lampada acessa:
-```
-//SRC da Lampada (apagada)  
-https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true  
+  ```
+  //SRC da Lampada (apagada)  
+  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true  
 
-//SRC da Lampada (acessa)  
-https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada-on.jpg?raw=true
-```  
+  //SRC da Lampada (acessa)  
+  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada-on.jpg?raw=true
+  ```  
 [Alterar-Src de Img](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-um-atributo-do-html)   
   - (7) Agora que você já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg' (Exemplo abaixo).
   - (8) no campo texto do exercício anterior, preencha um CPF (com pontuação e exiba o mesmo sem pontuação)  
@@ -56,7 +56,11 @@ https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada-on.jpg?
   - (29) Dentro da div com o id 'resultado', os números de 0 ~ 10 (escolha uma das opções acima)
   - (30) Dentro da div com o id 'resultado', os números pares até 20... (ex 2,4,6...)
   - (31) Ok... chega de for, mentira/#SQN... Exiba a tabuada do 1 até o 10 (for dentro de for?) (caso você escreva manualmente a tabuada eu vou te bater HSUAHASHUAS)
-  - (32) Crie uma função que informa se tem 'dota' no parâmetro informado.
+  - (32) Crie uma função que informa se tem os caracteres 'dota' no parâmetro informado.
+  ```
+  Ex: 'Dota é melhor que LOL' (verdadeiro)
+  Ex: 'Lol é melhor que CS' (falso) / e Falso na vida real tmb.
+  ```
   - (33) Exiba aleatoriamente um número pelo alert()
   - (34) Agora faça um botão que ao clicar nele informa se a pessoa acertou o número.
   - (35) Exiba a data atual pelo JavaScript no seguinte formato: dia/mês/Ano
@@ -95,7 +99,8 @@ E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 
 - (40) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
 
-- (41) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
+### BONUS - 
+Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
 
 JavaScript curiosidade...  
 http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-uma-matriz-com-array-e-em-javascript 
