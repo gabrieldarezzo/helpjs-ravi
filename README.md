@@ -17,11 +17,19 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
 
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
-  - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado-veja-o-demo))**
+  - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado))**
   - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2) - [Somar dois Inteiros](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-alert--sa%C3%ADda--output-de-uma-soma-de-dois-inteiros-22)
   - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') - [Monitorando-Click](https://github.com/gabrieldarezzo/helpjs-ravi#monitorando-um-evento-click)
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
-  - (6) No seu HTML exiba a imagem ['Lampada'](https://github.com/gabrieldarezzo/helpjs-ravi/tree/master/images) ---- [(Exemplo de como fazer)](http://www.clem.ufba.br/tuts/html/c12.htm). 
+  - (6) No seu HTML exiba a imagem de uma lampada, ao passar o mouse trocar para a lampada acessa:
+```
+//SRC da Lampada (apagada)  
+https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true  
+
+//SRC da Lampada (acessa)  
+https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada-on.jpg?raw=true
+```  
+[Alterar-Src de Img](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-um-atributo-do-html)   
   - (7) Agora que você já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg' (Exemplo abaixo).
   - (8) no campo texto do exercício anterior, preencha um CPF (com pontuação e exiba o mesmo sem pontuação)  
   - (9) no campo texto do exercício anterior, preencha um CPF (sem pontuação e exiba o mesmo sem pontuação)  
@@ -125,7 +133,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 Fiz um passo a passo.  ->
 **(Não precisa de servidor, como eu disse aqui é só JavaScript.... Qualquer navegador/browser já executa.**
 
-  - Copie e cole o conteúdo do '[Inline](https://github.com/gabrieldarezzo/helpjs-ravi#inline-veja-o-demo)'... (ou escreva, é bom saber algumas tags de cabeça...)
+  - Copie e cole o conteúdo do código acima... (ou escreva, é bom saber algumas tags de cabeça...)
 ![Código HTML + JavaScript](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/1.png)
 
   - Clique em 'Arquivo' -> 'Salvar Como'
@@ -137,9 +145,9 @@ Fiz um passo a passo.  ->
   - Vá até a pasta escolhida, clique com botão direito no arquivo salvo e depois 'Abrir com' -> 'Google Chrome' **(Caso não apareça a opção só arrasta para o navegador aberto)**
 ![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/4.png)
 
-  - Prontinho... Seu código foi executado @dica: caso você altere o arquivo 'index.html' é só dar um F5 (Ou Ctrl + R) no navegador que você olha a alteração.  
-![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/5.png)
-
+  - Prontinho... Seu código foi executado  
+![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/5.png)  
+@dica: caso você altere o arquivo 'index.html' é só dar um F5 (Ou Ctrl + R) no navegador que você olha a alteração.  
 
 
 
