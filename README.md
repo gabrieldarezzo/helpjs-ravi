@@ -1,19 +1,23 @@
 # Exercicios em JavaScript
 
-## Previa leitura antes de tudo: (não precisa entender só ler ta valendo...)  
-[http://tableless.com.br/tenha-o-dom/](http://tableless.com.br/tenha-o-dom/)
+## OLÁ INTERNET!!!   
 
-Recomendo utilizar o editor de texto de sua preferência para execução dos scripts abaixo.  
-A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost.com.br/blog/2016/04/super-lista-com-os-10-melhores-editores-de-codigo-gratuitos/)  
+   
+Tive a ideia de bolar uma lista de exercicios para quem tem interesse em aprender JavaScript.
+São todos exercicios simples, focando em quem quer iniciar porem está meio perdido.
+Uma das vantagens de se começar a programar pelo JavaScript seria a premissa que todos tem um Browser/Navegador e um editor disponível.
+
+
+Recomendo utilizar um dos editores abaixo  para a execução dos exercícios.   
 <del>Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/), por ser extremamente leve, mas fique a sua escolha.</del>
-Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.
+Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.   
+Ps:
+A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost.com.br/blog/2016/04/super-lista-com-os-10-melhores-editores-de-codigo-gratuitos/)  
 
-Leia os [exemplos](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos-de-códigos-para-resolução-dos-exercícios) caso você 'trave' em  algum exercício
 
- 
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**....
-  - (2) Faça essa mensagem em um arquivo externo e chame ela... **(Importado)**
+  - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado-veja-o-demo))**
   - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2)
   - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') **(Exemplo abaixo)**
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
@@ -90,152 +94,36 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 
 
 
-
 ## Tópicos futuros:
-  - (feito) Arrays/Matrizes/Vetores?
+  - [Importado](https://github.com/gabrieldarezzo/helpjs-ravi#just-do-it-arrays) - Arrays/Matrizes/Vetores?
   - Classes/Prototype
   - JSON
   - Manipulação de CSS pelo JavaScript
-  - Jquery (Porem faça esse [curso](http://try.jquery.com/))
-  - [feito](https://github.com/gabrieldarezzo/desafiosInternos/tree/master/ajax#guia-definitivo-ajax) Ajax
-
-# Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:   
+  - [Jquery](http://try.jquery.com/)
+  - [feito](https://github.com/gabrieldarezzo/desafiosInternos/tree/master/ajax#guia-definitivo-ajax) - Ajax
 
 
-## Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
+## Exemplos:
+
+### Exemplo de Saida: (Isto é um alert...)
 ```html
 <!DOCTYPE HTML>
 <html lang="pt-br">
 <head>
-	<meta charset="utf-8">
-	<title>JS Examples</title>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
 </head>
 <body>
-	<button onclick="alert('Hit-me');">Click-Me</button>
+  <script type="text/javascript">
+      alert('Olá Mundo!');    
+  </script>
 </body>
 </html>
-```  
-  
-## Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
-```html
-<!DOCTYPE HTML>
-<html lang="pt-br">
-<head>
-	<meta charset="utf-8">
-	<title>JS Examples</title>
-</head>
-<body>
-	
-	<script type="text/javascript">
-		alert('Olá');
-	</script>
-</body>
-</html>
-```   
-  
-
-## Importado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/importado/) 
-```html
-<!DOCTYPE HTML>
-<html lang="pt-br">
-<head>
-	<meta charset="utf-8">
-	<title>JS Examples</title>
-</head>
-<body>
-	<script type="text/javascript" src="my_script.js"></script>
-</body>
-</html>
-```   
-
-Conteúdo do 'my_script.js':
-```javascript
-alert('Olá!!!');
 ```
 
-# Exemplos de códigos para resolução dos exercícios...
-
-
-Isto é um alert...
-```javascript
-alert('Olá Mundo!');
-```
-Isto tambem é um alert, pode ser considera um 'exibir' ou 'saída' ou 'output' da linguagem:
-```javascript
-alert(2 + 2);
-```
-Entenda:  
-https://pt.wikipedia.org/wiki/Entrada/sa%C3%ADda ou  https://en.wikipedia.org/wiki/Input/output 
-
-Isto monitora o evento 'click' no html (Incorporado/Importado)
-```javascript
-document.getElementById('proximo-quadro').addEventListener('click', function() {
-	alert('Click');
-});
-```
-Isto monitora o evento 'click' (Inline)
-```html
-<button onclick="alert('Hit-me');">Click-Me</button>
-```
-
-O código abaixo monitora o evento 'click' do elemento DOM com o id 'my-btn' e depois exibe o valor(value) do elemento my-txt
-```html
-...
-<body>
-<p>Preencha Qualquer coisa e depois clique no botão abaixo...</p>
-<input type="text" name="" id="my-txt" />
-<br />
-<button id="my-btn">Outro 'Button'</button>
-
-<script type="text/javascript">
-	document.getElementById("my-btn").addEventListener('click', function() {
-		var texto = document.getElementById("my-txt").value;
-		alert(texto);
-	});
-</script>
-</body>
-...
-```
-
-O código abaixo seleciona um elemento pelo DOM (id="my-photo"), e altera o src deste elemento para 'foto-diferente.jpg'
-```html
-...
-<body>
-	<img src="foto-atual.jpg" alt="Minha Foto" id="my-photo"/>
-	<script type="text/javascript">
-		document.getElementById("my-photo").src = 'foto-diferente.jpg';
-	</script>
-</body>
-...
-```
-
-
-O código abaixo cria uma função em JavaScript, [leia mais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Fun%C3%A7%C3%B5es)
-```html
-...
-<body>
-	<script type="text/javascript">
-		function somaDoisNumeros(primeiro, segundo){
-		
-			//Armazena o resultado da soma do primeiro parâmetro + segundo parâmetro.
-			var resultado = primeiro + segundo;
-			
-			//E retorna a variavel.
-			return resultado;
-		}
-		
-		alert(somaDoisNumeros(1, 3));
-		alert(somaDoisNumeros(3, 3));
-		alert(somaDoisNumeros(2, 2));
-	</script>
-</body>
-...
-```
-
-
-## Ainda com dúvidas de como executar o Olá mundo no JavaScript?!  
-#### Fiz um passo a passo.  
-**(Não precisa de servidor cara aqui é só JavaScript.... Qualquer navegador já executa, preferencialmente o Google Chrome.**
+Ainda com dúvidas de como executar o Olá mundo no JavaScript?!    
+Fiz um passo a passo.  ->
+**(Não precisa de servidor, como eu disse aqui é só JavaScript.... Qualquer navegador/browser já executa.**
 
   - Copie e cole o conteúdo do 'Inline' acima... (ou escreva, é bom saber algumas tags/codes de cabeça...)
 ![Código HTML + JavaScript](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/1.png)
@@ -251,6 +139,193 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
 
   - Prontinho... Seu código foi executado @dica: caso você altere o arquivo 'index.html' é só dar um F5 (Ou Ctrl + R) no navegador que você olha a alteração.  
 ![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/5.png)
+
+
+
+
+## Exemplo de Comentário   
+
+```javascript
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
+</head>
+<body>
+  <script type="text/javascript">
+    //Isto é um comentário, vai ser ignorado pelo interpretador
+  </script>
+</body>
+</html>
+```
+
+
+## Exemplo de Alert() / Saída / Output de uma soma de dois inteiros (2+2)  
+Isto tambem é um alert, pode ser considera um 'exibir' ou 'saída' ou 'output' da linguagem:  
+```javascript
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
+</head>
+<body>
+  <script type="text/javascript">
+    alert(2 + 2);
+  </script>
+</body>
+</html>
+```
+Entenda:  
+https://pt.wikipedia.org/wiki/Entrada/sa%C3%ADda ou https://en.wikipedia.org/wiki/Input/output  
+
+
+
+## Monitorando um evento click  
+Isto monitora o evento 'click' pelo JS no html (Incorporado/Importado)   
+```javascript
+
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
+</head>
+<body>
+  <script type="text/javascript">
+	  document.getElementById('proximo-quadro').addEventListener('click', function() {
+      alert('Click');
+    });
+  </script>
+</body>
+</html>
+```
+Isto monitora o evento 'click' (Inline / In-Tag)
+```html
+<button onclick="alert('Hit-me');">Click-Me</button>
+```
+
+
+## Monitorando um evento click (2)  
+O código abaixo monitora o evento 'click' do elemento DOM com o id 'my-btn' e depois exibe o valor(value) do elemento my-txt  
+```html
+...
+<body>
+<p>Preencha Qualquer coisa e depois clique no botão abaixo...</p>
+<input type="text" name="" id="my-txt" value="Aqui vai ser exibido"  />
+<br />
+<button id="my-btn">Outro 'Button'</button>
+
+<script type="text/javascript">
+  document.getElementById("my-btn").addEventListener('click', function() {
+    var texto = document.getElementById("my-txt").value;
+    alert(texto);
+  });
+</script>
+</body>
+...
+```
+
+
+## Alterar um atributo do HTML
+O código abaixo seleciona um elemento pelo DOM (id="my-photo"), e altera o src deste elemento para 'foto-diferente.jpg'
+```html
+...
+<body>
+  <img src="https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true" alt="Minha Foto" id="my-photo"/>
+  <script type="text/javascript">
+    document.getElementById("my-photo").src = 'https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada-on.jpg?raw=true';
+  </script>
+</body>
+...
+```
+
+
+## Criar Função
+O código abaixo cria uma função de somar em JavaScript, [leia mais](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Fun%C3%A7%C3%B5es)
+```html
+...
+<body>
+    <script type="text/javascript">
+        function somaDoisNumeros(primeiro, segundo){
+        
+            //Armazena o resultado da soma do primeiro parâmetro + segundo parâmetro.
+            var resultado = primeiro + segundo;
+            
+            //E retorna a variavel.
+            return resultado;
+        }
+        
+        alert(somaDoisNumeros(1, 3));
+        alert(somaDoisNumeros(3, 3));
+        alert(somaDoisNumeros(2, 2));
+    </script>
+</body>
+...
+```
+
+
+
+# Explicações Gerais
+
+
+## Temos 3 formas de chamar um JavaScript (Inline, Incorporado, Importado) veja abaixo:   
+
+### Inline [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/inline/)
+```html
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>JS Examples</title>
+</head>
+<body>
+  <button onclick="alert('Hit-me');">Click-Me</button>
+</body>
+</html>
+```  
+  
+### Incorporado [(Veja o Demo)](http://gabrieldarezzo.github.io/helpjs-ravi/exemplos/incorporado/)
+```html
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
+</head>
+<body>
+    
+  <script type="text/javascript">
+    alert('Olá');
+  </script>
+</body>
+</html>
+```   
+  
+
+### Importado
+Basicamente seria 2 arquivos no mesmo nivel de pasta (index.html) e (my_script.js)
+Conteúdo do 'index.html':
+```html
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
+</head>
+<body>
+  <script type="text/javascript" src="my_script.js"></script>
+</body>
+</html>
+```   
+
+Conteúdo do 'my_script.js':
+```javascript
+alert('Olá!!!');
+```
+
+
 
 # Pow eu fiz os códigos, porem não acontece nada/fiz os códigos e não ocorreu o esperado....
   **Ai meu filho você precisa aprender a *debbugar**:
@@ -271,16 +346,11 @@ O código abaixo cria uma função em JavaScript, [leia mais](https://developer.
   - Ebooks gratuitos de JS_2 -> https://devfreebooks.org/javascript/
   
 # Motivos para você usar o Google Chrome:  
-  - https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d
-  - https://chrome.google.com/webstore/detail/do-it/eppncnmppghbndacgkideegigaminkfg
+  https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53
   
 # JQuery  
   - http://try.jquery.com/  
   
-  
-
-
-
 
 Entenda o que é ['Vanilla-js'](http://pt.stackoverflow.com/questions/46983/o-que-%C3%A9-o-vanilla-js)  
 Powered By:  
