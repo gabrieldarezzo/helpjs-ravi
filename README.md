@@ -21,7 +21,7 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2) - [Somar dois Inteiros](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-alert--sa%C3%ADda--output-de-uma-soma-de-dois-inteiros-22)
   - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') - [Monitorando-Click](https://github.com/gabrieldarezzo/helpjs-ravi#monitorando-um-evento-click)
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
-  - (6) No seu HTML exiba a imagem de uma lampada, ao passar o mouse trocar para a lampada acessa:
+  - (6) No seu HTML exiba a imagem de uma lampada, ao clicar em cima da lampada, troque o src dela para a lampada que está acessa.
   ```
   //SRC da Lampada (apagada)  
   https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true  
