@@ -3,23 +3,23 @@
 ## OLÁ INTERNET!!!   
 
    
-Tive a ideia de bolar uma lista de exercicios para quem tem interesse em aprender JavaScript.
-São todos exercicios simples, focando em quem quer iniciar porem está meio perdido.
+Tive a ideia de bolar uma lista de exercicios para quem tem interesse em aprender JavaScript.   
+São todos exercicios simples, focando em quem quer iniciar porem está meio perdido.   
 Uma das vantagens de se começar a programar pelo JavaScript seria a premissa que todos tem um Browser/Navegador e um editor disponível.
 
 
 Recomendo utilizar um dos editores abaixo  para a execução dos exercícios.   
-<del>Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/), por ser extremamente leve, mas fique a sua escolha.</del>
+<del>Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/), por ser extremamente leve, mas fique a sua escolha.</del>   
 Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.   
 Ps:
 A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost.com.br/blog/2016/04/super-lista-com-os-10-melhores-editores-de-codigo-gratuitos/)  
 
 
 ## Just.... DO IT:
-  - (1) Faça uma mensagem de **'Olá Mundo'**....
+  - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
   - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado-veja-o-demo))**
-  - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2)
-  - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') **(Exemplo abaixo)**
+  - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2) - [Somar dois Inteiros](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-alert--sa%C3%ADda--output-de-uma-soma-de-dois-inteiros-22)
+  - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') - [Monitorando-Click](https://github.com/gabrieldarezzo/helpjs-ravi#monitorando-um-evento-click)
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
   - (6) No seu HTML exiba a imagem ['Lampada'](https://github.com/gabrieldarezzo/helpjs-ravi/tree/master/images) ---- [(Exemplo de como fazer)](http://www.clem.ufba.br/tuts/html/c12.htm). 
   - (7) Agora que você já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg' (Exemplo abaixo).
@@ -121,11 +121,11 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 </html>
 ```
 
-Ainda com dúvidas de como executar o Olá mundo no JavaScript?!    
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Ainda com dúvidas de como executar o Olá mundo no JavaScript?! ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  
 Fiz um passo a passo.  ->
 **(Não precisa de servidor, como eu disse aqui é só JavaScript.... Qualquer navegador/browser já executa.**
 
-  - Copie e cole o conteúdo do 'Inline' acima... (ou escreva, é bom saber algumas tags/codes de cabeça...)
+  - Copie e cole o conteúdo do '[Inline](https://github.com/gabrieldarezzo/helpjs-ravi#inline-veja-o-demo)'... (ou escreva, é bom saber algumas tags de cabeça...)
 ![Código HTML + JavaScript](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/1.png)
 
   - Clique em 'Arquivo' -> 'Salvar Como'
