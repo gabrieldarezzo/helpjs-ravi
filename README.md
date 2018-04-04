@@ -19,7 +19,14 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
   - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado))**
   - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2) - [Somar dois Inteiros](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-alert--sa%C3%ADda--output-de-uma-soma-de-dois-inteiros-22)
-  - (4) Coloque um campo do tipo text chamado 'Click-Me' no seu HTML e exiba ele dentro do alert ao clicar o botão (necessário saber evento 'click') - [Monitorando-Click](https://github.com/gabrieldarezzo/helpjs-ravi#monitorando-um-evento-click)
+  - (4) No HTML Crie:
+  ```
+1 - Campo/Input do tipo text para preencher o nome completo.
+1 - Botão com o texto: 'Exibir Nome' e ao clicar neste botão é exibido um alert com o valor do campo nome completo, ex: ' O Nome Completo é: "xxxx". '
+```   
+  [Monitorando-Click](https://github.com/gabrieldarezzo/helpjs-ravi#monitorando-um-evento-click)  
+  [Exibir o nome ao clicar](https://github.com/gabrieldarezzo/helpjs-ravi#exibir-o-nome-ao-clicar)  
+
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
   - (6) No seu HTML exiba a imagem de uma lampada, ao clicar em cima da lampada, troque o src dela para a lampada que está acessa.
   ```
@@ -74,16 +81,16 @@ https://pt.wikipedia.org/wiki/Arranjo_(computa%C3%A7%C3%A3o) ou https://en.wikip
 
 
 
-- (37.a) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.a) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
 E Exiba a quantidade/comprimento que ele tem com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
 
-- (37.b) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.b) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
 E exiba um a um com ```alert();``` - De preferencia para laços de repetição (for, forEach, while, do{}while)
 
-- (37.c) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.c) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [push()](http://www.w3schools.com/jsref/jsref_push.asp)  
 
-- (37.d) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.d) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
 
 - (37.e) Crie o seguinte array: ```var numbers = new Array(5, 7, 1, 8, 9);```  
@@ -220,6 +227,35 @@ Isto monitora o evento 'click' (Inline / In-Tag)
 ```html
 <button onclick="alert('Hit-me');">Click-Me</button>
 ```
+
+
+## Exibir o nome ao clicar
+Isto monitora o evento 'click' pelo JS no html (Incorporado/Importado)   
+```javascript
+
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>JS Examples</title>
+</head>
+<body>
+  <p>Nome Completo:</p>
+  <input type="text" name="nome-completo" id="nome-completo" placeholder="Digite seu nome"/>
+  <br />
+  <input type="button" value="Exibir Nome" id="btn-exibir-nome"/>
+  <hr />
+  <script type="text/javascript">
+	  document.getElementById("btn-exibir-nome").addEventListener("click", function() {
+      const nomeCompleto = document.getElementById('nome-completo').value;
+      alert('O Nome Completo é: ' + nomeCompleto );	
+    });
+  </script>
+</body>
+</html>
+```
+
+
 
 
 ## Monitorando um evento click (2)  
