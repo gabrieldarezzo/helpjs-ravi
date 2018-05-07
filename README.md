@@ -20,7 +20,7 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado))**
   - (3) Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2) - [Somar dois Inteiros](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-alert--sa%C3%ADda--output-de-uma-soma-de-dois-inteiros-22)
   - (4) No HTML Crie:
-  ```
+```
 1 - Campo/Input do tipo text para preencher o nome completo.
 1 - Botão com o texto: 'Exibir Nome' e ao clicar neste botão é exibido um alert com o valor do campo nome completo, ex: ' O Nome Completo é: "xxxx". '
 ```   
@@ -28,6 +28,14 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   [Exibir o nome ao clicar](https://github.com/gabrieldarezzo/helpjs-ravi#exibir-o-nome-ao-clicar)  
 
   - (5) exiba a quantidade de letras que possuem o texto inserido ao clicar no botão
+```
+Exemplos de entrada e saida:
+'Gabriel' // 7
+'Daniel' // 6
+'Ronaldo' // 6
+'Dennis Ritchie' // 14 (Espaço conta)
+```  
+
   - (6) No seu HTML exiba a imagem de uma lampada, ao clicar em cima da lampada, troque o src dela para a lampada que está acessa.
   ```
   //SRC da Lampada (apagada)  
@@ -42,17 +50,23 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   - (7) Agora que você já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg' (Exemplo abaixo).
   - (8) no campo texto do exercício anterior, preencha um CPF (com pontuação e exiba o mesmo sem pontuação)  
   - (9) no campo texto do exercício anterior, preencha um CPF (sem pontuação e exiba o mesmo sem pontuação)  
-  - (10) declare 2 variáveis (valor1,valor2)  com valores 2 ,  6 crie uma terceira variável com o resultado sendo a soma de (valor1,valor2), exiba o mesmo.
-  - (11) faça 1 botão, 3 campos texto no html.E passe dinamicamente o primeiro campo valor1, segundo campo valor2, e no terceiro campo ao clicar no botão exiba a soma
- Dica: trabalhe com id="", e no html utiliza a tag <button id="btn-acao">Click-Me</button>
-  - (12) Faça um comentário de uma linha no JavaScript
-  - (13) Faça um comentário de varias linhas no JavaScript
-  - (14) Crie uma div com o id 'resultado' no html (vazia) e insira via JavaScript no ato do 'Load' da página o trecho : 'Esse html veio do JavaScript...'
-  - (15) Agora crie um botão que ao clicar faça a mesma coisa que o exercício acima.
-  - (16) Crie uma função que recebe 2 parâmetros e retorna a soma deles.
+  - (10) No HTML Crie:
+```
+2 x - Campo/Input do tipo text. (id=soma1, id=soma1)
+1 x - Botão (id=btn-soma)
+1 x - Campo (id=resultado-soma)
+
+Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma1), 
+A soma deles ira aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).
+```   
+  - (12) Faça um comentário de uma linha no JavaScript no exercicio anterior
+  - (13) Faça um comentário de varias linhas no JavaScript no exercicio anterior do CPF.
+  - (14) Crie uma div com o id 'resultado' no html (vazia) e insira via JavaScript no ato do 'Load'/'Carregar' da página o texto : 'Esse html veio do JavaScript...'
+  - (15) Agora crie um botão que ao ser clicado faça a mesma ação do exercício anterior.
+  - (16) Crie uma função que recebe 2 parâmetros e retorna a soma deles. (e utilize no exercicio 10)
   - (17) Crie uma função que recebe 2 parâmetros e retorna a soma deles, porem caso seja passado um parâmetro vazio ela retorne zero.
   - (18) Exiba o 'resto' da seguinte divisão: (5 / 2)
-  - (19) Crie uma função que retorna a palavra (impar/par) de acordo com seu parâmetro.
+  - (19) Crie uma função que retorna a palavra (impar/par) de acordo com seu parâmetro inteiro.
   - (20) Crie uma função que recebe 2 parâmetros e retorna a multiplicação deles. 
   - (21) Crie uma função que calcula 5% de desconto retornando o valor do desconto.
   - (22) Crie uma função que recebe o ano de nascimento da pessoa informando se ela é maior de idade ou menor.
@@ -62,9 +76,19 @@ A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost
   - (26) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com forEach)
   - (27) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com while)
   - (28) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com while) 
-  - (29) Dentro da div com o id 'resultado', os números de 0 ~ 10 (escolha uma das opções acima)
-  - (30) Dentro da div com o id 'resultado', os números pares até 20... (ex 2,4,6...)
-  - (31) Ok... chega de for, mentira/#SQN... Exiba a tabuada do 1 até o 10 (for dentro de for?) (caso você escreva manualmente a tabuada eu vou te bater HSUAHASHUAS)
+  - (29) Dentro da div com o id 'resultado', escreva os números de 0 ~ 10 (escolha uma das opções acima)
+  - (30) Dentro da div com o id 'resultado', escreva os números pares até 20... (ex 2,4,6...20)
+  - (31) Ok... chega de for(), mentira / #SQN... Exiba a tabuada do 1 até o 10 (for dentro de for?) (caso você escreva de forma manual.. eu vou te bater HSUAHASHUAS)
+```
+0 x 0 = 0
+0 x 1 = 0
+0 x 2 = 0
+...
+10 x 9 = 90
+10 x 10 = 10
+```  
+(Dica, pesquise um pouco de CSS para melhorar a visualização do resultado.)
+  
   - (32) Crie uma função que informa se tem os caracteres 'dota' no parâmetro informado.
   ```
   Ex: 'Dota é melhor que LOL' (verdadeiro)
@@ -81,32 +105,56 @@ https://pt.wikipedia.org/wiki/Arranjo_(computa%C3%A7%C3%A3o) ou https://en.wikip
 
 
 
-- (37.a) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.a) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 E Exiba a quantidade/comprimento que ele tem com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
 
-- (37.b) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
-E exiba um a um com ```alert();``` - De preferencia para laços de repetição (for, forEach, while, do{}while)
+- (37.b) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
+E exiba um a um com ```alert()``` - De preferencia para laços de repetição (for, forEach, while, do{}while)
 
-- (37.c) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.c) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
+E exiba um a um com ```alert()``` - De preferencia para funções com callbacks, Ex:(map, reduce, filter)
+![map, reduce, filter](https://cdn-images-1.medium.com/max/2000/1*A86lGTmXqQ_KrDUL47D2Hw.png)
+
+- (37.c) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [push()](http://www.w3schools.com/jsref/jsref_push.asp)  
 
-- (37.d) Crie o seguinte array: ```var gods = new Array('Aegir', 'Aud', 'Balder');```  
+- (37.d) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
 
-- (37.e) Crie o seguinte array: ```var numbers = new Array(5, 7, 1, 8, 9);```  
+- (37.e) Crie o seguinte array: ```var numbers = [5, 7, 1, 8, 9]```  
 E exiba de forma crescente:  @dica: [.sort](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)   
 @dica2: http://pt.stackoverflow.com/questions/9900/como-ordenar-um-array-por-valores
 
-- (37.f) Crie o seguinte array: ```var numbers = new Array(5, 7, 1, 8, 9);```  
+- (37.f) Crie o seguinte array: ```var numbers = [5, 7, 1, 8, 9]```  
 E exiba de forma decrescente.
 
 
-- (38) Crie o seguinte array: ```var goods = new Array('Aegir', 'Aud', 'Balder', 'Bragi', 'Búri', 'Dag', 'Dellingr');```  
+- (38) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder', 'Bragi', 'Búri', 'Dag', 'Dellingr']```  
 E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 
 - (39) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul)
 
 - (40) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
+
+- (41) Crie um contador como o abaixo:
+![Contador](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/contador-gif-5.gif)
+
+
+### Challenge Accepted
+![Challenge Accepted Meme](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/meme-challenge-accepted.jpg)
+
+Com as imagens abaixo:
+![Animação Urso](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/all-chara.png)
+
+Crie uma animação onde o urso se move.
+Inciando esquerda até o final da tela (direita), e ao encontrar o final fica parado.
+
+Ps: Já deixei cortado cada uma com ( 32px x 32px )
+```    
+  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-1.png?raw=true
+  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-2.png?raw=true
+  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-3.png?raw=true
+```
 
 ### BONUS - 
 Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
