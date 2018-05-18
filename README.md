@@ -136,8 +136,11 @@ E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 
 - (40) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
 
-- (41) Crie um contador como o abaixo:
-![Contador](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/contador-gif-5.gif)
+- (41) Crie um contador como o abaixo:  
+
+![Contador](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/contador-gif-5.gif)  
+[Exemplo de temporizador / setTimeout()](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-temporizador)   
+
 
 
 ### Challenge Accepted
@@ -149,12 +152,22 @@ Com as imagens abaixo:
 Crie uma animação onde o urso se move.
 Inciando esquerda até o final da tela (direita), e ao encontrar o final fica parado.
 
-Ps: Já deixei cortado cada uma com ( 32px x 32px )
+Dica: Já deixei cortado cada uma com ( 32px x 32px )
 ```    
   https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-1.png?raw=true
   https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-2.png?raw=true
   https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-3.png?raw=true
 ```
+
+Basicamente você pode usar os exemplos abaixo:
+[Exemplo de temporizador / setTimeout()](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-temporizador)     
+[Alterar-Src de Img](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-um-atributo-do-html)   
+
+E obviamente usar alguns truques de CSS para mover a img:
+Leitura recomendada:
+https://www.w3schools.com/css/css_positioning.asp
+
+
 
 ### BONUS - 
 Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) possibilitando excluir individualmente o item/li clicado
@@ -365,7 +378,22 @@ O código abaixo cria uma função de somar em JavaScript, [leia mais](https://d
 ```
 
 
+## Exemplo de temporizador   
 
+O código abaixo tem um temporizador que executa uma função anônima após 2000 μs ([microsecond](https://en.wikipedia.org/wiki/Microsecond)) (2 segundos)   
+
+
+```html
+...
+<body>
+    <script type="text/javascript">
+      setTimeout(function(){
+        alert("Olá mundo atrasado dois segundos"); 
+      }, 2000);        
+    </script>
+</body>
+...
+```   
 # Explicações Gerais
 
 
