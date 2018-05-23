@@ -276,11 +276,11 @@ Isto monitora o evento 'click' pelo JS no html (Incorporado/Importado)
     <title>JS Examples</title>
 </head>
 <body>
-  <script type="text/javascript">
-	  document.getElementById('proximo-quadro').addEventListener('click', function() {
-      alert('Click');
-    });
-  </script>
+<script type="text/javascript">  
+document.getElementById('proximo-quadro').addEventListener('click', function() {
+  alert('Click');
+});
+</script>
 </body>
 </html>
 ```
@@ -301,17 +301,17 @@ Isto monitora o evento 'click' pelo JS no html (Incorporado/Importado)
     <title>JS Examples</title>
 </head>
 <body>
-  <p>Nome Completo:</p>
-  <input type="text" name="nome-completo" id="nome-completo" placeholder="Digite seu nome"/>
-  <br />
-  <input type="button" value="Exibir Nome" id="btn-exibir-nome"/>
-  <hr />
-  <script type="text/javascript">
-	  document.getElementById("btn-exibir-nome").addEventListener("click", function() {
-      const nomeCompleto = document.getElementById('nome-completo').value;
-      alert('O Nome Completo é: ' + nomeCompleto );	
-    });
-  </script>
+<p>Nome Completo:</p>
+<input type="text" name="nome-completo" id="nome-completo" placeholder="Digite seu nome"/>
+<br />
+<input type="button" value="Exibir Nome" id="btn-exibir-nome"/>
+<hr />
+<script type="text/javascript">  
+document.getElementById("btn-exibir-nome").addEventListener("click", function() {
+  const nomeCompleto = document.getElementById('nome-completo').value;
+  alert('O Nome Completo é: ' + nomeCompleto );	
+});
+</script>
 </body>
 </html>
 ```
@@ -329,11 +329,11 @@ O código abaixo monitora o evento 'click' do elemento DOM com o id 'my-btn' e d
 <br />
 <button id="my-btn">Outro 'Button'</button>
 
-<script type="text/javascript">
-  document.getElementById("my-btn").addEventListener('click', function() {
-    var texto = document.getElementById("my-txt").value;
-    alert(texto);
-  });
+<script type="text/javascript">  
+document.getElementById("my-btn").addEventListener('click', function() {
+  var texto = document.getElementById("my-txt").value;
+  alert(texto);
+});
 </script>
 </body>
 ...
