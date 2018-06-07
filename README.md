@@ -146,7 +146,7 @@ Com as imagens abaixo:
 ![Animação Urso](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/all-chara.png)
 
 Crie uma animação onde o urso abaixo:  
-<img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/urso-animado.gif?raw=true" alt="Urso Animado" width="400px"/>
+<img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/urso-animado.gif" alt="Urso Animado" width="400px"/>
 
 Inciando esquerda até o final da tela (direita), e ao encontrar o final fica parado.
 
