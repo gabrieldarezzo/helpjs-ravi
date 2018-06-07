@@ -113,7 +113,7 @@ E exiba um a um com ```alert()``` - De preferencia para laços de repetição (f
 
 - (37.c) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 E exiba um a um com ```alert()``` - De preferencia para funções com callbacks, Ex:(map, reduce, filter)
-![map, reduce, filter](https://cdn-images-1.medium.com/max/2000/1*A86lGTmXqQ_KrDUL47D2Hw.png)
+<img src="https://cdn-images-1.medium.com/max/2000/1*A86lGTmXqQ_KrDUL47D2Hw.png" alt="map, reduce, filter" width="300px"/>
 
 - (37.c) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [push()](http://www.w3schools.com/jsref/jsref_push.asp)  
@@ -137,26 +137,24 @@ E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 - (40) Crie um campo texto no html que armazena o conteúdo em um array sempre que você clicar no botão, e apresente em uma lista(ul) destacando os números pares
 
 - (41) Crie um contador como o abaixo:  
+<img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/contador-gif-5.gif" alt="Contador" width="width: 60px;"/>
 
-![Contador](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/contador-gif-5.gif)  
-[Exemplo de temporizador / setTimeout()](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-temporizador)   
-
-
-
-### Challenge Accepted
-![Challenge Accepted Meme](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/meme-challenge-accepted.jpg)
+- (42) 
+<img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/meme-challenge-accepted.jpg" alt="Challenge Accepted Meme" width="300px"/>
 
 Com as imagens abaixo:
 ![Animação Urso](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/all-chara.png)
 
-Crie uma animação onde o urso se move.
+Crie uma animação onde o urso abaixo:  
+<img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/urso-animado.gif?raw=true" alt="Urso Animado" width="400px"/>
+
 Inciando esquerda até o final da tela (direita), e ao encontrar o final fica parado.
 
 Dica: Já deixei cortado cada uma com ( 32px x 32px )
 ```    
-  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-1.png?raw=true
-  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-2.png?raw=true
-  https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/chara-3.png?raw=true
+  https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/images/chara-1.png
+  https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/images/chara-2.png
+  https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/images/chara-3.png
 ```
 
 Basicamente você pode usar os exemplos abaixo:
@@ -166,6 +164,24 @@ Basicamente você pode usar os exemplos abaixo:
 E obviamente usar alguns truques de CSS para mover a img:
 Leitura recomendada:
 https://www.w3schools.com/css/css_positioning.asp
+
+
+---
+Caso ficou curioso de como fazer, tem um exemplo aqui:  
+
+Onde separei em 3 partes:  
+
+1-animacao (Onde ocorre a troca de forma dinamica entre a img-chara: 1,2,3)  
+2-mover-img (Empurro uma imagem estatica de forma dinamica da esquerda (left) até o final)  
+3-urso-animado (Junção de ambos exemplos, dando a impressão do urso 'andar')  
+
+
+Veja o código completo aqui:   
+https://github.com/gabrieldarezzo/gabrieldarezzo.github.io/tree/master/helpjs-ravi/desafio-urso  
+
+
+Demo Online do urso animado aqui: ( Não vale copiar em?! )
+http://gabrieldarezzo.github.io/helpjs-ravi/desafio-urso/3-urso-animado/  
 
 
 
