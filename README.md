@@ -160,8 +160,9 @@ Crie uma animação, onde a imagem se troca entre 1,2 e 3, e mova o bloco para a
   https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/images/chara-3.png
 ```
 
-Basicamente você pode usar os exemplos abaixo:
-[Exemplo de temporizador / setTimeout()](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-temporizador)     
+Basicamente você pode usar os exemplos abaixo:  
+[Exemplo de temporizador/setTimeout()](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-temporizador)     
+[Alterar-Style de uma div]https://github.com/gabrieldarezzo/helpjs-ravi#alterar-style-div)  
 [Alterar-Src de Img](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-um-atributo-do-html)   
 
 E obviamente um toque de de CSS para mover a img:
