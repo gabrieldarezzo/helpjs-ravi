@@ -60,6 +60,7 @@ Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma1),
 A soma deles ira aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).
 ```   
   - (12) Faça um comentário de uma linha no JavaScript no exercicio anterior
+  - (12.a) Crie dois botões no HTML chamados: 'Verde', ,'Vermelho'. ao clicar neles, o style="background-color: {COR-SELECIONADA}" vai ser alterado dinamicamente [Alterar-Style de uma div](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-style-div)   
   - (13) Faça um comentário de varias linhas no JavaScript no exercicio anterior do CPF.
   - (14) Crie uma div com o id 'resultado' no html (vazia) e insira via JavaScript no ato do 'Load'/'Carregar' da página o texto : 'Esse html veio do JavaScript...'
   - (15) Agora crie um botão que ao ser clicado faça a mesma ação do exercício anterior.
@@ -148,12 +149,11 @@ E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 Com as imagens abaixo:
 ![Animação Urso](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/all-chara.png)
 
-Crie uma animação onde o urso abaixo:  
+Crie uma animação, onde a imagem se troca entre 1,2 e 3, e mova o bloco para a direita, dando entender que o urso está 'andando'.
 <img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/urso-animado.gif" alt="Urso Animado"/>
 
-Inciando esquerda até o final da tela (direita), e ao encontrar o final fica parado.
 
-Dica: Já deixei cortado cada uma com ( 32px x 32px )
+@Dica: Já deixei cortado cada uma com ( 32px x 32px )
 ```    
   https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/images/chara-1.png
   https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/images/chara-2.png
@@ -164,7 +164,7 @@ Basicamente você pode usar os exemplos abaixo:
 [Exemplo de temporizador / setTimeout()](https://github.com/gabrieldarezzo/helpjs-ravi#exemplo-de-temporizador)     
 [Alterar-Src de Img](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-um-atributo-do-html)   
 
-E obviamente usar alguns truques de CSS para mover a img:
+E obviamente um toque de de CSS para mover a img:
 Leitura recomendada:
 https://www.w3schools.com/css/css_positioning.asp
 
@@ -358,6 +358,29 @@ document.getElementById("my-btn").addEventListener('click', function() {
 ...
 ```
 
+## Alterar Style Div
+O código abaixo seleciona um elemento pelo DOM (id="my-photo"), e altera o src deste elemento para 'foto-diferente.jpg'
+```html
+...
+<body>
+  
+  <style type="text/css">
+  #quadrado {
+    height: 100px;
+    width: 100px;
+  }
+  </style>
+
+  <div id="quadrado" style="background-color: #f00;"></div>  
+
+  <script type="text/javascript">
+    document.getElementById("quadrado").style = "background-color: #f00;";
+  </script>
+
+
+</body>
+...
+```
 
 ## Alterar um atributo do HTML
 O código abaixo seleciona um elemento pelo DOM (id="my-photo"), e altera o src deste elemento para 'foto-diferente.jpg'
