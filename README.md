@@ -139,6 +139,9 @@ E exiba todos os nomes, dentro do html: ```<ul id="nomes"></ul>```
 - (41) Crie um contador como o abaixo:  
 <img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/contador-gif-5.gif" alt="Contador" width="width: 60px;"/>
 
+
+## Challenge Accepted  
+
 - (42) 
 <img src="https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/meme-challenge-accepted.jpg" alt="Challenge Accepted Meme" width="300px"/>
 
