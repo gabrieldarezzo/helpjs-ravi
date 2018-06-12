@@ -515,6 +515,9 @@ alert('Olá!!!');
   - Ebooks gratuitos de JS -> http://jsbooks.revolunet.com/
   - Ebooks gratuitos de JS_2 -> https://devfreebooks.org/javascript/
   
+# Pirou no 'Ursinho animado'?
+  - (Avançado) Curso de 'Developing Games with HTML5' https://mva.microsoft.com/en-us/training-courses/developing-games-with-html5-8418
+  
 # Motivos para você usar o Google Chrome:  
   https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53
   
