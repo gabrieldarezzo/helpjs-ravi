@@ -116,6 +116,9 @@ E exiba um a um com ```alert()``` - De preferencia para laços de repetição (f
 E exiba um a um com ```alert()``` - De preferencia para funções com callbacks, Ex:(map, reduce, filter)
 <img src="https://cdn-images-1.medium.com/max/2000/1*A86lGTmXqQ_KrDUL47D2Hw.png" alt="map, reduce, filter" width="300px"/>
 
+Leia mais sobre como trabalhar com arrays:
+https://tableless.com.br/lidando-com-arrays-em-javascript/ 
+
 - (37.c) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [push()](http://www.w3schools.com/jsref/jsref_push.asp)  
 
@@ -312,7 +315,7 @@ Isto monitora o evento 'click' (Inline / In-Tag)
 
 ## Exibir o nome ao clicar
 Isto monitora o evento 'click' pelo JS no html (Incorporado/Importado)   
-```javascript
+```html
 
 <!DOCTYPE HTML>
 <html lang="pt-br">
