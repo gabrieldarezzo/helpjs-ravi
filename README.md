@@ -508,6 +508,10 @@ alert('Olá!!!');
 
 # Ainda tem dúvida? Cria um 'Issue' tio....
   -  https://github.com/gabrieldarezzo/helpjs-ravi/issues 
+  
+# Gosta de Videos?
+  -  https://github.com/carolcodes/youtube-br-desenvolvimento  
+  
 
 # Artigos lekais de JavaScript/HTML/CSS:  
   - http://tableless.github.io/iniciantes/
