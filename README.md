@@ -10,10 +10,8 @@ Uma das vantagens de se começar a programar pelo JavaScript seria a premissa qu
 
 Recomendo utilizar um dos editores abaixo  para a execução dos exercícios.   
 <del>Eu utilizo o [NotePad++, (Np++ para os íntimos)](https://notepad-plus-plus.org/download/), por ser extremamente leve, mas fique a sua escolha.</del>   
-Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.   
-Ps:
-A KingHost fez um post bacana, [Lista 10 Editores gratuitos](http://www.kinghost.com.br/blog/2016/04/super-lista-com-os-10-melhores-editores-de-codigo-gratuitos/)  
-
+<del>Eu utilizo o [Sublime3](https://www.sublimetext.com/3), por ser extremamente leve com Finder de funções e suporte a [Emmet](http://emmet.io/), novamente... Fique a sua escolha.</del>   
+Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido simples e tem varios plugins para turbinar ele.  
 
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
