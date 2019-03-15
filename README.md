@@ -525,10 +525,6 @@ alert('Olá!!!');
 # Motivos para você usar o Google Chrome:  
 - [Segredos do Chrome DevTools com @zenorocha](https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)  
 
-  
-# JQuery  
-  - http://try.jquery.com/  
-  
 
 Entenda o que é ['Vanilla-js'](http://pt.stackoverflow.com/questions/46983/o-que-%C3%A9-o-vanilla-js)  
 Powered By:  
