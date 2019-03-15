@@ -513,19 +513,18 @@ alert('Olá!!!');
   
 
 # Artigos lekais de JavaScript/HTML/CSS:  
-  - http://tableless.github.io/iniciantes/
-  - http://wbruno.com.br/category/javascript-puro/
+  - http://tableless.github.io/iniciantes/  
   - https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc
   - http://jstherightway.org/pt-br/#js-code-style
   - http://www.codewars.com/?language=javascript
   - Ebooks gratuitos de JS -> http://jsbooks.revolunet.com/
-  - Ebooks gratuitos de JS_2 -> https://devfreebooks.org/javascript/
   
 # Pirou no 'Ursinho animado'?
-  - (Avançado) Curso de 'Developing Games with HTML5' https://mva.microsoft.com/en-us/training-courses/developing-games-with-html5-8418
+  - (Avançado | Inglês) Curso de 'Developing Games with HTML5' https://www.youtube.com/watch?v=x2EbfsQbsLI&list=PLsrZV8shpwjMxD9LZ6qsKrtWR7xQEv192
   
 # Motivos para você usar o Google Chrome:  
-  https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53
+- [Segredos do Chrome DevTools com @zenorocha](https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)  
+
   
 # JQuery  
   - http://try.jquery.com/  
