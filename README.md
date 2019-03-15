@@ -537,11 +537,6 @@ Powered By:
 
 
 
-# Agradecimento  
-![Salve o arquivo](https://raw.githubusercontent.com/gabrieldarezzo/helpjs-ravi/master/img-readme/twitter.png)    
-Veja a [Thread](https://twitter.com/SousaDarezzo/status/1086074957451296773)    
-
-
 
 
 
