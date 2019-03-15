@@ -8,13 +8,11 @@
 
    
 Tive a ideia de bolar uma lista de exercicios para quem tem interesse em aprender JavaScript.   
-São todos exercicios simples, focando em quem quer iniciar porem está meio perdido.   
+São todos exercicios simples, focando em quem gostaria de iniciar porém está meio perdido.   
 Uma das vantagens de se começar a programar pelo JavaScript seria a premissa que todos tem um Browser/Navegador e um editor disponível.
 
-
-Recomendo utilizar um dos editores abaixo  para a execução dos exercícios.   
-Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido simples e tem varios plugins para turbinar ele.  
-
+Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido é simples <del>é barato</del> é de graça. Com varios plugins para turbinar ele.  
+ 
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
   - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado))**
@@ -48,6 +46,7 @@ Exemplos de entrada e saida:
 
 
   - (7) Agora que você já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg' (Exemplo abaixo).
+  - (7a) Faça 2 campos no HTML chamados: 'Nome', 'Sobrenome' e um botão 'Saudação'; ao clicar no botão exibir um alert: 'Olá {NOME} {SOBRENOME}'
   - (8) no campo texto do exercício anterior, preencha um CPF (com pontuação e exiba o mesmo sem pontuação)  
   - (9) no campo texto do exercício anterior, preencha um CPF (sem pontuação e exiba o mesmo sem pontuação)  
   - (10) No HTML Crie:
@@ -119,17 +118,17 @@ E exiba um a um com ```alert()``` - De preferencia para funções com callbacks,
 Leia mais sobre como trabalhar com arrays:
 https://tableless.com.br/lidando-com-arrays-em-javascript/ 
 
-- (37.c) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
+- (37.e) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [push()](http://www.w3schools.com/jsref/jsref_push.asp)  
 
-- (37.d) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
+- (37.f) Crie o seguinte array: ```var deuses = ['Aegir', 'Aud', 'Balder']```  
 Adicione os 3 Deuses: ('Loki', 'Odin', 'Frey') com a função [.length](http://www.w3schools.com/jsref/jsref_length_string.asp)  
 
-- (37.e) Crie o seguinte array: ```var numbers = [5, 7, 1, 8, 9]```  
-E exiba de forma crescente:  @dica: [.sort](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)   
+- (37.g) Crie o seguinte array: ```var numbers = [5, 7, 1, 8, 9]```  
+E exiba de forma crescente  @dica: [.sort](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)   
 @dica2: http://pt.stackoverflow.com/questions/9900/como-ordenar-um-array-por-valores
 
-- (37.f) Crie o seguinte array: ```var numbers = [5, 7, 1, 8, 9]```  
+- (37.h) Crie o seguinte array: ```var numbers = [5, 7, 1, 8, 9]```  
 E exiba de forma decrescente.
 
 
