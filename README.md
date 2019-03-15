@@ -1,4 +1,8 @@
-# 40 - Exercicios em JavaScript (JS)
+# 40 - Exercicios em JavaScript (JS) ![GitHub stars](https://img.shields.io/github/stars/gabrieldarezzo/helpjs-ravi.svg?style=for-the-badge)
+
+
+
+
 
 ## OLÁ INTERNET!!!   
 
