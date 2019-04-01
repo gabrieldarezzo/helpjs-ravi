@@ -298,8 +298,11 @@ Isto monitora o evento 'click' pelo JS no html (Incorporado/Importado)
     <title>JS Examples</title>
 </head>
 <body>
+
+<button id="btn-clicou">Exibir Alert</button>
+
 <script type="text/javascript">  
-document.getElementById('proximo-quadro').addEventListener('click', function() {
+document.getElementById('btn-clicou').addEventListener('click', function() {
   alert('Click');
 });
 </script>
