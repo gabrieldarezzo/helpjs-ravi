@@ -61,7 +61,8 @@ A soma deles ira aparecer no campo (id=resultado-soma) ao clicar no botão (id=b
   - (12) Faça um comentário de uma linha no JavaScript no exercicio anterior
   - (12.a) Crie dois botões no HTML chamados: 'Verde', ,'Vermelho'. ao clicar neles, o style="background-color: {COR-SELECIONADA}" vai ser alterado dinamicamente [Alterar-Style de uma div](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-style-div)   
   - (13) Faça um comentário de varias linhas no JavaScript no exercicio anterior do CPF.
-  - (14) Crie uma div com o id 'resultado' no html (vazia) e insira via JavaScript no ato do 'Load'/'Carregar' da página o texto : 'Esse html veio do JavaScript...'
+  - (14) Crie uma div vazia cujo o id dela é 'resultado'
+Insira via JavaScript assim que a tela carregar o seguinte texto: 'Esse texto foi inserido pelo JavaScript...' ['Exemplo de "window.onload"'](https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onload#Exemplos)  
   - (15) Agora crie um botão que ao ser clicado faça a mesma ação do exercício anterior.
   - (16) Crie uma função que recebe 2 parâmetros e retorna a soma deles. (e utilize no exercicio 10)
   - (17) Crie uma função que recebe 2 parâmetros e retorna a soma deles, porem caso seja passado um parâmetro vazio ela retorne zero.
