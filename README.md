@@ -47,8 +47,8 @@ Exemplos de entrada e saida:
 
   - (7) Agora que você já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg' (Exemplo abaixo).
   - (7a) Faça 2 campos no HTML chamados: 'Nome', 'Sobrenome' e um botão 'Saudação'; ao clicar no botão exibir um alert: 'Olá {NOME} {SOBRENOME}'
-  - (8) no campo texto do exercício anterior, preencha um CPF (com pontuação e exiba o mesmo sem pontuação)  
-  - (9) no campo texto do exercício anterior, preencha um CPF (sem pontuação e exiba o mesmo sem pontuação)  
+  - (8) Crie um campo texto parar preencher um CPF `<input maxlength="11" id="cpf" />`, e exiba ao lado com pontuação conforme preencher 
+  - (9) Preencha um CPF com pontuação `<input maxlength="14" id="cpfPoint" />` e no campo ao lado exiba sem pontuação.  
   - (10) No HTML Crie:
 ```
 2 x - Campo/Input do tipo text. (id=soma1, id=soma1)
