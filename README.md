@@ -507,7 +507,9 @@ alert('Olá!!!');
   **Ai meu filho você precisa aprender a *debbugar**:
   - http://www.devfuria.com.br/javascript/debugando/
   - http://www.devmedia.com.br/depurando-javascript-com-google-chrome/28367
-
+  
+# Quer mais exercicios ?!   
+  - O @jcserracampos fez uma lista bem bacana para continuar a se desafiar: https://medium.com/@JCSerraCampos/diasto-sem-ideias-para-programar-hoje-e-agora-dcbeda65d223
 
 # Ainda tem dúvida? Cria um 'Issue' tio....
   -  https://github.com/gabrieldarezzo/helpjs-ravi/issues 
