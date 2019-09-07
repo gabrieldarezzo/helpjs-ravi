@@ -51,12 +51,12 @@ Exemplos de entrada e saida:
   - (9) Preencha um CPF com pontuação `<input maxlength="14" id="cpfPoint" />` e no campo ao lado exiba sem pontuação.  
   - (10) No HTML Crie:
 ```
-2 x - Campo/Input do tipo text. (id=soma1, id=soma1)
+2 x - Campo/Input do tipo text. (id=soma1, id=soma2)
 1 x - Botão (id=btn-soma)
 1 x - Campo (id=resultado-soma)
 
-Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma1), 
-A soma deles ira aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).
+Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma2), 
+O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).
 ```   
   - (12) Faça um comentário de uma linha no JavaScript no exercicio anterior
   - (12.a) Crie dois botões no HTML chamados: 'Verde', ,'Vermelho'. ao clicar neles, o style="background-color: {COR-SELECIONADA}" vai ser alterado dinamicamente [Alterar-Style de uma div](https://github.com/gabrieldarezzo/helpjs-ravi#alterar-style-div)   
