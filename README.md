@@ -86,7 +86,7 @@ Insira via JavaScript assim que a tela carregar o seguinte texto: 'Esse texto fo
 0 x 2 = 0
 ...
 10 x 9 = 90
-10 x 10 = 10
+10 x 10 = 100
 ```  
 (Dica, pesquise um pouco de CSS para melhorar a visualização do resultado.)
   
