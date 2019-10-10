@@ -14,4 +14,4 @@ Crie uma animação, onde a imagem se troca entre 1,2 e 3, e mova o bloco para a
 @Dica: Já deixei cortado cada uma com ( 32px x 32px )
 
 
-**[RESULTADO](https://patriciafelixx.github.io/helpjs-ravi/)**
+**[RESULTADO](https://patriciafelixx.github.io/desafio-urso/)**
