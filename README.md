@@ -76,7 +76,7 @@ Insira via JavaScript assim que a tela carregar o seguinte texto: 'Esse texto fo
   - (25) Dentro da div com o id 'resultado', escreva 20x ('Repetição'). (use o 'for' pelo amor de deus)
   - (26) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com forEach)
   - (27) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com while)
-  - (28) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com while) 
+  - (28) Dentro da div com o id 'resultado', escreva 5x ('Repetição'). (agora com do while) 
   - (29) Dentro da div com o id 'resultado', escreva os números de 0 ~ 10 (escolha uma das opções acima)
   - (30) Dentro da div com o id 'resultado', escreva os números pares até 20... (ex 2,4,6...20)
   - (31) Ok... chega de for(), mentira / #SQN... Exiba a tabuada do 1 até o 10 (for dentro de for?) (caso você escreva de forma manual.. eu vou te bater HSUAHASHUAS)
