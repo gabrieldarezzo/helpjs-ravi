@@ -30,9 +30,9 @@ Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido é sim
 Exemplos de entrada e saida:
 'Gabriel' // 7
 'Daniel' // 6
-'Ronaldo' // 6
+'Ronaldo' // 7
 'Dennis Ritchie' // 14 (Espaço conta)
-```  
+```
 
   - (6) No seu HTML exiba a imagem de uma lampada, ao clicar em cima da lampada, troque o src dela para a lampada que está acessa.
   ```
