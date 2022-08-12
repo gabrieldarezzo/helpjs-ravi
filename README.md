@@ -12,7 +12,9 @@ São todos exercicios simples, focando em quem gostaria de iniciar porém está 
 Uma das vantagens de se começar a programar pelo JavaScript seria a premissa que todos tem um Browser/Navegador e um editor disponível.
 
 Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido é simples <del>é barato</del> é de graça. Com varios plugins para turbinar ele.  
- 
+Dúvidas de como executar o primeiro exercício abaixo?     
+LINK. 
+
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
   - (2) Faça essa mensagem em um arquivo javascript externo e chame ela... **([Importado](https://github.com/gabrieldarezzo/helpjs-ravi#importado))**
@@ -227,7 +229,8 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 </html>
 ```
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Ainda com dúvidas de como executar o Olá mundo no JavaScript?! ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  
+### Como executar um script
+Está com dúvidas de como executar o 'Olá mundo' no JavaScript?!
 Fiz um passo a passo.  ->
 **(Não precisa de servidor, como eu disse aqui é só JavaScript.... Qualquer navegador/browser já executa.**
 
