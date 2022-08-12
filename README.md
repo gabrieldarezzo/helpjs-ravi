@@ -13,7 +13,11 @@ Uma das vantagens de se começar a programar pelo JavaScript seria a premissa qu
 
 Eu utilizo o [VS-Code](https://code.visualstudio.com/Download), é rapido é simples <del>é barato</del> é de graça. Com varios plugins para turbinar ele.  
 Dúvidas de como executar o primeiro exercício abaixo?     
-LINK. 
+[Como executar um script, Passo a Passo.](https://github.com/gabrieldarezzo/helpjs-ravi#como-executar-um-script)
+
+
+
+
 
 ## Just.... DO IT:
   - (1) Faça uma mensagem de **'Olá Mundo'**.... [Exemplo: 'Olá Mundo'](https://github.com/gabrieldarezzo/helpjs-ravi#exemplos)
