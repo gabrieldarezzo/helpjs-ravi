@@ -234,7 +234,7 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 ```
 
 ### Como executar um script
-Está com dúvidas de como executar o 'Olá mundo' no JavaScript?!
+Está com dúvidas de como executar o ['Olá mundo' no JavaScript?](https://www.scaler.com/topics/javascript/hello-world-in-javascript/)!
 Fiz um passo a passo.  ->
 **(Não precisa de servidor, como eu disse aqui é só JavaScript.... Qualquer navegador/browser já executa.**
 
