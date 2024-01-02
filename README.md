@@ -206,6 +206,60 @@ http://pt.stackoverflow.com/questions/8035/qual-a-diferen%C3%A7a-entre-declarar-
 
 
 
+## Exemeplos do Exercícios Resolvidos ( Apenas como referência - Não vale copiar ;) )
+- (1) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_1/helloWorld.js  
+- (2) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_2/import.js
+- (3) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_3/soma_de_numeros.js
+- (4) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_4/index.html
+- (5) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_5/index.html
+- (6) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_6/index.html
+- (7) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_7/index.html
+- (8) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_8/index.html
+- (9) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_9/index.html
+- (10) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_10/index.html
+- (11) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_11/index.html
+- (12) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_12/index.html
+- (13) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_13/index.html
+- (14) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_14/index.html
+- (15) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_15/index.html
+- (16) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_16/main.js
+- (17) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_17/main.js
+- (18) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_18/main.js
+- (19) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_19/main.js
+- (20) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_20/main.js
+- (21) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_21/main.js
+- (22) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_22/main.js
+- (23) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_23/index.html
+- (24) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_24/index.html
+- (25) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_25/index.html
+- (26) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_26/index.html
+- (27) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_27/index.html
+- (28) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_28/index.html
+- (29) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_29/index.html
+- (30) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_30/index.html
+- (31) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_31/index.html
+- (32) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_32/main.js
+- (33) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_33/main.js
+- (34) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_34/index.html
+- (35) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_35/index.html
+- (36) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_36/index.html
+- (37.a) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.a/main.js
+- (37.b) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.b/index.html
+- (37.c) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.c/index.html
+- (37.e) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.e/main.js
+- (37.f) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.f/main.js
+- (37.g) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.g/main.js
+- (37.h) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_37.h/main.js
+- (38) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_38/index.html
+- (39) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_39/index.html
+- (40) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_40/index.html
+- (41) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_41/index.html
+- (42 - Challenge Accepted) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_42/index.html
+- (BONUS) https://github.com/Tsiangana/javascript_trainning/blob/main/2_second/exercicio_43/index.html
+
+
+
+
 ## Tópicos futuros:
   - [Importado](https://github.com/gabrieldarezzo/helpjs-ravi#just-do-it-arrays) - Arrays/Matrizes/Vetores?
   - Classes/Prototype
